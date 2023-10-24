@@ -5,3 +5,7 @@
 - 📫 Holla out to me on LinkedIn! https://www.linkedin.com/in/onyinyechukwu-adesanya-517489204/
 
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yinye013)](https://git.io/streak-stats)
+
+

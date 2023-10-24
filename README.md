@@ -6,6 +6,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yinye013)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yinye013&theme=synthwave&border_radius=6.5&card_width=506)](https://git.io/streak-stats)
 
 

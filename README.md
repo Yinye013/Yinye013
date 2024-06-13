@@ -9,7 +9,7 @@
 <h1 align="left">TOOLS & LANGUAGES I AM COMFORTABLE USING:</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,shadcnui,daisyui,materialui,zustand,vue,react,redux,nextjs,firebase,supabase,mongodb,prisma,postman,git,github,vercel,vscode,powershell,figma,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,styledcomponents,materialui,pinia,vue,react,redux,nextjs,firebase,supabase,mongodb,prisma,postman,git,github,vercel,vscode,powershell,figma,vite" />
   </a>
 </p>
 <br/>
@@ -37,3 +37,39 @@
 </tr>
 </table>
 
+
+# 🏆 Wakatime Stats
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2010%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-982.3%20thousand%20lines%20of%20code-blue)
+
+**I'm more or less neutral 🦉** 
+
+```text
+🌞 Morning                491 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+🌆 Daytime                300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+🌃 Evening                723 commits         ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌙 Night                  702 commits         ████████░░░░░░░░░░░░░░░░░   31.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               20 hrs 39 mins      ████████████████████████░   96.70 % 
+Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 12/06/2024 18:43:54 UTC
+<!--END_SECTION:waka-->
+<br />

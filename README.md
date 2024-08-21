@@ -38,5 +38,9 @@
 </table>
 
 
+# 📊 My Wakatime Stats:
+
+<figure><embed src="https://wakatime.com/share/@080652f9-fab1-44e0-bf0e-bc63509b3fd0/b1e18989-71e6-4dcf-a452-b81404754261.svg"></embed></figure>
+
 
 

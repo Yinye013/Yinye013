@@ -6,7 +6,7 @@
 
   <br/>
 <br />
-<h1 align="left">TOOLS & LANGUAGES I AM COMFORTABLE USING:</h1>
+<h1 align="left">TOOLS & LANGUAGES I AM COMFORTABLE USING</h1>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,tailwind,scss,styledcomponents,materialui,pinia,vue,react,redux,nextjs,firebase,supabase,mongodb,prisma,postman,git,github,vercel,vscode,powershell,figma,vite" />

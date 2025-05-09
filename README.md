@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yinye013&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Yinye013&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yinye013&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Yinye013&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
 
 ### 📈 Contribution Graph

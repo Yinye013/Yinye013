@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=57A0FF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Onyinyechukwu;Software+Engineer;TypeScript+%26+JavaScript+Expert;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
----
 
 ### 👨‍💻 About Me
 

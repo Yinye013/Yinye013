@@ -1,33 +1,28 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=5294E2&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Onyinyechukwu;Software+Engineer;TypeScript+%26+JavaScript+Expert;Full-Stack+Developer)
-
-<h1 align="left">TOOLS & LANGUAGES I AM COMFORTABLE USING:</h1>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,tailwind,scss,styledcomponents,materialui,pinia,vue,react,redux,nextjs,firebase,supabase,mongodb,prisma,postman,git,github,vercel,vscode,powershell,figma,vite" />
-  </a>
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=57A0FF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Onyinyechukwu;Software+Engineer;TypeScript+%26+JavaScript+Expert;Full-Stack+Developer" alt="Typing SVG" />
 </p>
-<br/>
-<br />
+
+---
+
+### 👨‍💻 About Me
+
+I'm **Onyinyechukwu**, a full-stack developer passionate about building high-quality digital experiences. I love clean code, scalable systems, and pushing pixels that matter.
 
 
-# 📊 GitHub Stats:
+const techStack = {
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "Spring Boot"],
+  database: ["MongoDB", "PostgreSQL"],
+  languages: ["TypeScript", "Java", "JavaScript"],
+};
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yinye013&theme=react&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yinye013&theme=react&hide_border=false" /> 
-</td>
+🚀 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,java,spring,tailwind,git" /> </p>
 
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yinye013&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yinye013&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Yinye013&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
  <!--START_SECTION:waka-->
 

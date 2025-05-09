@@ -9,20 +9,29 @@
 
 I'm **Onyinyechukwu**, a full-stack developer passionate about building high-quality digital experiences. I love clean code, scalable systems, and pushing pixels that matter.
 
-
+---
 
 ### 🚀 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,java,spring,tailwind,git" /> </p>
 
-
+---
 ### 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yinye013&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Yinye013&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
+---
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yinye013&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+---
+### 🧩 GitHub Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yinye013&theme=tokyonight" alt="Profile Details Card" />
+</p>
+
 
  <!--START_SECTION:waka-->
 

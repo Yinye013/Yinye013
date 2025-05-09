@@ -1,10 +1,8 @@
 name: WakaTime Readme Stats 🕒
-
 on:
   schedule:
     - cron: "0 0 * * *"  # Every day at midnight
   workflow_dispatch:
-
 jobs:
   update-readme:
     name: Update WakaTime Stats

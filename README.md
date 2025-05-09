@@ -1,9 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=5294E2&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Onyinyechukwu;Software+Engineer;TypeScript+%26+JavaScript+Expert;Full-Stack+Developer)
 
-<a href="https://www.linkedin.com/in/onyinyechukwu-adesanya-517489204/">Holla out to me on LinkedIn! Click this message to say hi📫  </a>
-
-  <br/>
-<br />
 <h1 align="left">TOOLS & LANGUAGES I AM COMFORTABLE USING:</h1>
 <p>
   <a href="https://skillicons.dev">

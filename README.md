@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 ---
-<p align="left">I'm **Onyinyechukwu**, a full-stack developer passionate about building high-quality digital experiences. I love clean code, scalable systems, and pushing pixels that matter.</p>
+<p align="left">I'm Onyinyechukwu, a full-stack developer passionate about building high-quality digital experiences. I love clean code, scalable systems, and pushing pixels that matter.</p>
 
 ### 🚀 Tech Stack
 ---
@@ -27,14 +27,23 @@
 
 ### 🧩 GitHub Profile Summary Cards
 ---
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yinye013&theme=tokyonight" alt="Profile Details Card" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yinye013&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yinye013&theme=tokyonight" alt="Most Used Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yinye013&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </p>
 
 
- <!--START_SECTION:waka-->
-
-
-
+### ⌛ WakaTime Stats
+---
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### 📫 Let's Connect
+---
+<p align="center"> <a href="https://www.linkedin.com/in/onyinyechukwu-adesanya-517489204/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a> <a href="mailto:yinadesanya@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a> <a href="https://x.com/yinye_xx"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a> </p>

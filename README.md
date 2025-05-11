@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 ---
-<p align="left">I'm Onyinyechukwu, a full-stack developer passionate about building high-quality digital experiences. I love clean code, scalable systems, and pushing pixels that matter!</p>
+<p align="left">I'm Onyinyechukwu, a full-stack developer passionate about building high-quality digital experiences. I love clean code, scalable systems, and pushing pixels that matter.</p>
 
 ### 🚀 Tech Stack
 ---

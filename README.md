@@ -10,7 +10,7 @@
 
 ### 🚀 Tech Stack
 ---
-<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,java,spring,tailwind,git" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,angular,vue,java,sass,tailwind,git" /> </p>
 
 
 ### 📊 GitHub Stats

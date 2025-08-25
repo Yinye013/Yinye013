@@ -13,6 +13,23 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,angular,vue,java,sass,tailwind,git" /> </p>
 
 
+
+### 🧩 GitHub Profile Summary Cards
+---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yinye013&theme=tokyonight" alt="Profile Details Card" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yinye013&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yinye013&theme=tokyonight" alt="Most Used Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yinye013&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</p>
+
+
+
+
 ### 📊 GitHub Stats
 ---
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -29,18 +46,7 @@
 </p>
 
 
-### 🧩 GitHub Profile Summary Cards
----
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yinye013&theme=tokyonight" alt="Profile Details Card" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yinye013&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yinye013&theme=tokyonight" alt="Most Used Language" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yinye013&theme=tokyonight&utcOffset=1" alt="Productive Time" />
-</p>
+
 
 
 ### ⌛ WakaTime Stats
